@@ -1,3 +1,5 @@
+### Este es un código ejemplo de clase
+
 # 1. Carga del dataset y preparación de las variables
 
 data("mtcars")
